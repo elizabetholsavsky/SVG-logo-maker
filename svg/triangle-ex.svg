@@ -3,5 +3,5 @@
     xmlns="http://www.w3.org/2000/svg" 
     viewBox="0 0 200 200" >
 	<polygon points="100, 15 200, 200 0, 200" fill="blue"/>
-    <text x="100" y="180" font-size="60" text-anchor="middle" fill="white">SVG</text>
+    <text x="100" y="185" font-size="70" text-anchor="middle" fill="white">SVG</text>
 </svg>
