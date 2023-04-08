@@ -9,9 +9,9 @@ describe('Shape', () => {
                     width="300" height="200"
                     xmlns="http://www.w3.org/2000/svg">
 
-	                ${userShape}
+	                ${this.userShape}
 
-                    ${userText}
+                    ${this.userText}
 
                 </svg>`
             )
