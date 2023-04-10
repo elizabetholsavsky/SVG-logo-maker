@@ -8,9 +8,9 @@ Generate an SVG logo with your choice of shape (circle, square, or triangle), sh
 [![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)](https://jestjs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Watch a [video](INSERT LINK) demonstration of the basic functionality:
+Watch a [video](https://drive.google.com/file/d/1A2VQhiCqFQlFh11n5yiMDAyEuMMRMyon/view?usp=sharing) demonstration of the basic functionality:
 
-[GOOGLE DRIVE VIDEO]
+https://user-images.githubusercontent.com/116515976/230991714-bffc14be-c289-4ec2-b1bc-3bfb1ae13cfe.mov
 
 ## Table of Contents
 
