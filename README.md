@@ -35,7 +35,7 @@ Change directories to your new project folder in the terminal. Invoke the applic
 
 ## Contributing
 
-This project was created as a challenge assignment for the UT Full Stack Boot Camp.
+This project was created as a challenge assignment for the UT Full Stack Boot Camp. Contact me with any ideas or requests.
 
 ## Tests
 Each shape class (Circle, Square, and Triangle) is tested for a render() method that returns a string for the corresponfing SVG file matching color and text requests. Type "npm test" in the command line and Jest will run all three tests.
