@@ -17,7 +17,7 @@ function init() {
     .then((response) => {
         createLogo(response);
         })
-        .catch(err => {
+    .catch(err => {
             console.log(err)
         });
 }
