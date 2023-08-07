@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/116515976/230991714-bffc14be-c289-4ec2
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Questions](#questions)
+* [Contact](#contact)
 
 ## Installation
 
@@ -39,10 +39,11 @@ This project was created as a challenge assignment for the UT Full Stack Boot Ca
 
 ## Tests
 Each shape class (Circle, Square, and Triangle) is tested for a render() method that returns a string for the corresponfing SVG file matching color and text requests. Type "npm test" in the command line and Jest will run all three tests.
-## Questions
 
-Ask questions by contacting me at:
+## Contact
+* Email elizabetholsavsky@gmail.com
+* LinkedIn [https://www.linkedin.com/in/elizabetholsavsky/](https://www.linkedin.com/in/elizabetholsavsky/)
+* Portfolio [https://elizabetholsavsky.com/](https://elizabetholsavsky.com/)
+* Hashnode [https://elizabetholsavsky.hashnode.dev/](https://elizabetholsavsky.hashnode.dev/)
+* Twitter [@elizavsky](https://twitter.com/home)
 
-Github [elizabetholsavsky](https://github.com/elizabetholsavsky)
-
-Email elizabetholsavsky@gmail.com
